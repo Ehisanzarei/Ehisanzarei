@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ehsan
-- 🦊 I love front-end & fixes & books & interesting facts
+- 🦊 I love front-end & foxes & books & interesting facts
 - thats it! 
 
 <h3>languages:</h3>
